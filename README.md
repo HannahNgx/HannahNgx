@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Hannah Nguyen</h1>
-<h3 align="center">A passionate junior from University of Michigan</h3>
+<h3 align="center">A passionate senior from University of Michigan</h3>
 
 <p align= "left"> Currently, I am on the track of becoming a software developer. Therefore, I spend a lot of time on C++ projects. Besides software development, I am also interested in web development as well as machine learning. Please have fun looking at my projects.</p>
 <h3 align="left">Connect with me:</h3>
